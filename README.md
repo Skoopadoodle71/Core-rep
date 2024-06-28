@@ -1,2 +1,2 @@
 # Core-rep
-Repository for Coursera
+Repository for DataCamp
